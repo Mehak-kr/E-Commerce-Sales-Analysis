@@ -50,11 +50,11 @@ To develop a **data-driven, interactive dashboard** that:
 
 Ecommerce-Sales-Analysis/
 │
-├── dataset/ # Raw dataset (.csv or .sql)
-├── scripts/ # Python scripts for data cleaning and preprocessing
-├── dashboard/ # Power BI (.pbix) file
-├── images/ # Dashboard screenshot(s)
-├── README.md # Project documentation
+├─ dataset/ # Raw dataset (.csv or .sql)
+├─ scripts/ # Python scripts for data cleaning and preprocessing
+├─ dashboard/ # Power BI (.pbix) file
+├─ images/ # Dashboard screenshot(s)
+├─ README.md # Project documentation
 
 
 ---
